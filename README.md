@@ -1,5 +1,5 @@
 # WD16-TestCollaborationProject
-<!DOCTYPE html>
+<!--<!DOCTYPE html>
 <html>
   <head>
   <meta charset="UTF-8">
@@ -7,4 +7,6 @@
   </head>
   <body>
   </body>
-</html>
+</html>-->
+
+## Additional content 2
